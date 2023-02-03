@@ -1,0 +1,14 @@
+// sum of all even number
+
+step 1: input n
+
+step 2: initialized i = 0 and sum =0 
+
+step 3: while i < n
+
+step 4: if i % 2 == 0 then add the sum = sum + i
+
+step 5: else i = i + 1 and go to step 3
+
+step 6: when i reached the n print the sum
+
